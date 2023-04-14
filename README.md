@@ -1,4 +1,7 @@
-# Estudo sobre GraphQL
+<div align="center">
+  <img src="graphql.png" alt="GraphQL" width="350" />
+  <h1>Estudos sobre GraphQL</h1>
+</div>
 
 Este repositório contém os códigos desenvolvidos durante o estudo sobre GraphQL.
 
